@@ -3,9 +3,9 @@
 Curso com intuito de ensinar e exemplificar usos de programação web com React, NextJS e TypeScript
 ### Etapas
 
-- [x] Instalação do projeto com TypeScript e NextJS
-- [x] Adição de consulta da API do GitHub para listar os repositórios
-- [x] Adição de servidor customizado (como se fosse micro-serviços)
+- [ ] Instalação do projeto com TypeScript e NextJS
+- [ ] Adição de consulta da API do GitHub para listar os repositórios
+- [ ] Adição de servidor customizado (como se fosse micro-serviços)
 - [ ] Consulta de dados em arquivos (exemplificação de como se fosse um banco de dados)
 - [ ] Possibilidade de "Favoritar" o repositório do GitHub e salvar isso em um banco de dados local (arquivo ou SQL ou NoSQL)
 
